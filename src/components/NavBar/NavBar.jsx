@@ -18,7 +18,7 @@ function NavBar() {
         <a className="nav-link" href="#">Products</a>
         <a className="nav-link" href="#">Shop</a>
          <a className="nav-link" href="#">FAQ</a>
-        <a className="nav-link" href="#"> <CartWidget count="0"/> </a>
+        <a className="nav-link" href="#"> <CartWidget />count="0" </a>
 		
         
       </div>
