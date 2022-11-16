@@ -6,7 +6,7 @@ import { faCartShopping }  from "@fortawesome/free-solid-svg-icons";
 
 function CartWidget() {
 	return (
-		<div>
+		<div className='d-flex justify-content-end'>
 			<li>
 			 
 			 	<div>

@@ -5,7 +5,7 @@ import "./titles.css";
 function Greeting() {
 	return (
 		<div>
-		<Greet saludo="Bienvenido a Tea Time!"/>	
+		<Greet saludo="Bienvenido a Pottery Home!"/>	
 		</div>
 	);
 }
